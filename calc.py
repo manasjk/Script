@@ -7,4 +7,5 @@ def multiply(x,y):
 def divide(x,y):
     pass
 def square(x,y):
-    pass
+    pasdef multiply(x,y):
+    return x*y
