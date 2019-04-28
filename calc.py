@@ -12,5 +12,4 @@ def square(x,y):
 
 def divide(x,y):
     return x/y
-#checking for update
-#new update
+#thanks
