@@ -9,3 +9,6 @@ def divide(x,y):
 def square(x,y):
     pasdef multiply(x,y):
     return x*y
+
+def divide(x,y):
+    return x/y
